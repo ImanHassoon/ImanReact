@@ -14,6 +14,7 @@ using System.Data.Common;
 
 namespace API.Controllers
 {
+    
     public class ActivitiesController :BaseApiController
     {
         private readonly IMediator _mediator;
